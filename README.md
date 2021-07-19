@@ -1,4 +1,4 @@
 # Zombies
  Zombies I
 
-(Deprecated)
+(Does work, look for .exe)
